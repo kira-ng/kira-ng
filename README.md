@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Blockchain, DApp**
 
-- 👨‍💻 All of my projects are available at [github.com/kira-ng](github.com/kira-ng)
+- 👨‍💻 All of my projects are available at [github.com/kira-ng](https://github.com/kira-ng)
 
 - 💬 Ask me about **React (NextJS) , Vue (NuxtJS), PHP (Laravel), NestJS, Blockchain**
 
 - 📫 How to reach me **tuanna1906@gmail.com**
 
-- 📄 Know about my experiences [kira-ng.com](kira-ng.com)
+- 📄 Know about my experiences [kira-ng.com](https://kira-ng.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
